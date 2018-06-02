@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/lcr073/exemploNuvem#readme",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "imagemin-mozjpeg": "^7.0.0",
+    "jquery": "^3.3.1",
+    "maplace-js": "^0.2.10"
   },
   "devDependencies": {
-    "jshint": "^2.9.5"
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-imagemin": "^4.1.0",
+    "imagemin-jpegtran": "^5.0.2"
   }
 }
