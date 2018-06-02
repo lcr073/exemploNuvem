@@ -1,0 +1,25 @@
+{
+  "name": "exemplonuvem",
+  "version": "1.0.0",
+  "description": "Aula nuvem de exemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcr073/exemploNuvem.git"
+  },
+  "author": "Luciano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcr073/exemploNuvem/issues"
+  },
+  "homepage": "https://github.com/lcr073/exemploNuvem#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}

@@ -28,6 +28,8 @@
 *.so.*
 *.dylib
 
+node_modules/
+
 # Executables
 *.exe
 *.out
